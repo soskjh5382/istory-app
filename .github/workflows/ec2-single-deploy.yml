@@ -3,7 +3,7 @@ name: istory ci/cd dev pipeline
 
 permissions:
   contents: read
-  security-events: write  # CodeQL 결과를 업로드하기 위한 권한
+  security-events: write  # CodeQL 결과를 업로드하기 위한 권한11
   actions: read
 
 on:
